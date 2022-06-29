@@ -11,10 +11,11 @@ function obtenerMayor(x, y) {
 
       return x;
 
+    }else{
+      return y;
+
     }
-
-    return y;
-
+  
 }
 
 function mayoriaDeEdad(edad) {
